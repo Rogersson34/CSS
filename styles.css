@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    font-size: 64px;
+    font-weight: lighter;
+    font-style: italic;
+    text-shadow: 10px 10px 10px #ff0;
+}
+
+p{
+    color: blue; /* Troca a cor do texto*/
+    font-size: 30px; /* Troca o tamanho do texto*/
+    font-weight: 900;
+    font-style: italic;
+    line-height: 120px;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    text-align: right;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+/*
+    RED
+    GREEN
+    BLUE
+    */
+
+    /*HEXADECIMAL
+    DECIMAL(10)=> 0,1,2,3,4,5,6,7,8,9
+    HEXADECIMAL (16)=>=>0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+    */
+    
+    
