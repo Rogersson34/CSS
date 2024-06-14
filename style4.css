@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vh;
+}
+
+.div-dad{
+    height: 350px;
+    width: 350px;
+    background-color: #ff1396;
+}
+
+.div-son{
+    height: 150px;
+    width: 150px;
+    background-color: #ffff00;
+}
+
+.tanananan{
+    background: #ff0000;
+    height: 100px;
+    width: 100px;
+}
+
+a{
+    color: blue;
+}
+
+a::before{
+    content: "🚀";
+}
+
+a::after{
+    content: "😎";
+}
+
+a:active{
+    color:#ff0000
+}
+
+p{
+    color: #ff0000;
+}
+p:hover{
+    color: blue;
+}
+
+.container{
+    height:100px;
+    width: 100px;
+    background: #ff0000;
+}
